@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+Body My name is NEH. I'm cool!
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
